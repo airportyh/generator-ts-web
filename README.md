@@ -26,11 +26,3 @@ yo ts-web
 ## License
 
 Apache-2.0 © [Toby Ho]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-ts-web.svg
-[npm-url]: https://npmjs.org/package/generator-ts-web
-[travis-image]: https://travis-ci.org/airportyh/generator-ts-web.svg?branch=master
-[travis-url]: https://travis-ci.org/airportyh/generator-ts-web
-[daviddm-image]: https://david-dm.org/airportyh/generator-ts-web.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/airportyh/generator-ts-web
