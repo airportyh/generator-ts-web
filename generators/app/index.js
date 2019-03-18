@@ -30,7 +30,7 @@ module.exports = class extends Generator {
       '.gitignore',
       'index.html',
       'index.ts',
-      'index.html',
+      'index.package.json',
     ]
     for (let file in files) {
       this.fs.copy(
