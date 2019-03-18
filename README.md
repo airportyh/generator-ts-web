@@ -1,4 +1,4 @@
-# generator-ts-web [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-ts-web
 > Yeoman generator for a barebones TypeScript web project.
 
 ## Installation
