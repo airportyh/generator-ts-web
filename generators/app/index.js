@@ -28,7 +28,7 @@ module.exports = class extends Generator {
   writing() {
     const files = [
       '.gitignore',
-      'index'
+      'index.html',
     ]
     for (let file in files) {
       this.fs.copy(
