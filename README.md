@@ -16,7 +16,7 @@ First, install [Yeoman](http://yeoman.io) and generator-ts-web using [npm](https
 
 ```bash
 npm install -g yo
-npm install -g generator-ts-web
+npm install -g @airportyh/generator-ts-web
 ```
 
 Then generate your new project:
