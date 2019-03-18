@@ -27,7 +27,7 @@ cd your-awesome-project
 yo @airportyh/ts-web
 ```
 
-
+Then 
 
 ## License
 
