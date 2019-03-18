@@ -28,8 +28,6 @@ yo @airportyh/ts-web
 npm install
 ```
 
-
-
 ## License
 
 Apache-2.0
