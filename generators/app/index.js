@@ -25,7 +25,7 @@ module.exports = class extends Generator {
         this.templatePath(file),
         this.destinationPath(file)
       );
-      }
+    }
   }
 
   install() {
