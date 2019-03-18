@@ -27,7 +27,7 @@ cd your-awesome-project
 yo @airportyh/ts-web
 ```
 
-Then:
+Then install the dev dependencies:
 
 `npm install`
 
