@@ -31,7 +31,9 @@ Then:
 
 `npm install`
 
-Then
+Then run the app:
+
+`npm start` and open your browser at `http://localhost:8080`.
 
 ## License
 
