@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Toby Ho",
+      "authorEmail": "airportyh@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
