@@ -68,8 +68,7 @@
   },
   "scripts": {
     "pretest": "eslint .",
-    "test": "jest",
-    "publish": "npm publish --access=public"
+    "test": "jest"
   },
   "repository": "airportyh/generator-ts-web",
   "license": "Apache-2.0"
