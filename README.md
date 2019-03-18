@@ -25,6 +25,7 @@ Then generate your new project:
 mkdir your-awesome-project
 cd your-awesome-project
 yo @airportyh/ts-web
+npm install
 ```
 
 ## License
