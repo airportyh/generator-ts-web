@@ -27,7 +27,11 @@ cd your-awesome-project
 yo @airportyh/ts-web
 ```
 
-Then 
+Then:
+
+`npm install`
+
+Then
 
 ## License
 
