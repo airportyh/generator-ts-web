@@ -31,6 +31,7 @@ module.exports = class extends Generator {
       'index.html',
       'index.ts',
       'index.package.json',
+      'index.package.json',
     ]
     for (let file in files) {
       this.fs.copy(
