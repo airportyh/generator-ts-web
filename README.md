@@ -29,4 +29,4 @@ yo ts-web
 
 ## License
 
-Apache-2.0 © [Toby Ho]()
+Apache-2.0
