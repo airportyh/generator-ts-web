@@ -31,7 +31,7 @@ Then install the dev dependencies:
 
 `npm install`
 
-Then run the app:
+Then run the app in webpack dev-server:
 
 `npm start` and open your browser to the URL instructed by webpack-dev-server.
 
