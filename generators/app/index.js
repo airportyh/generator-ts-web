@@ -29,7 +29,7 @@ module.exports = class extends Generator {
     for (let file in files) {
       this.fs.copy(
         this.templatePath(file),
-        this.destinationPath('dummyfile.txt')
+        this.destinationPath(file)
       );
       }
   }
