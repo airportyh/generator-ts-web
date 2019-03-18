@@ -13,7 +13,6 @@ module.exports = class extends Generator {
 
   writing() {
     const files = [
-      '.gitignore',
       'index.html',
       'index.ts',
       'package.json',
