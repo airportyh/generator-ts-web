@@ -6,7 +6,8 @@ If you:
 
 * Like TypeScript (TS) or want to learn and/or experiment with TS
 * Want to write code for the browser using TS
-Do not care to use a framework
+* Do not care to use a framework
+
 Then this template is perfect for you!!
 
 ## Installation
