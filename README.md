@@ -1,7 +1,7 @@
 # generator-ts-web
 > Yeoman generator for a barebones TypeScript web project.
 
-This is a Yeoman generator for a bare-bones TypeScript web project template.
+This is a Yeoman generator for a bare-bones TypeScript web project.
 
 If you:
 
