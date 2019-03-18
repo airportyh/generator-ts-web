@@ -24,7 +24,7 @@ Then generate your new project:
 ```bash
 mkdir your-awesome-project
 cd your-awesome-project
-yo ts-web
+yo @airportyh/ts-web
 ```
 
 ## License
