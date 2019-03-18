@@ -33,7 +33,7 @@ module.exports = class extends Generator {
       'index.package.json',
       'tsconfig.json',
       'webpack.config.js',
-    ]
+    ];
     for (let file in files) {
       this.fs.copy(
         this.templatePath(file),
