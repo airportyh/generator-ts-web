@@ -33,7 +33,7 @@ Then install the dev dependencies:
 
 Then run the app:
 
-`npm start` and open your browser at the  `http://localhost:8080`.
+`npm start` and open your browser as instructed by  `http://localhost:8080`.
 
 ## License
 
