@@ -22,6 +22,7 @@ npm install -g generator-ts-web
 Then generate your new project:
 
 ```bash
+mkdir 
 yo ts-web
 ```
 
