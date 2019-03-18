@@ -33,7 +33,7 @@ Then install the dev dependencies:
 
 Then run the app:
 
-`npm start` and open your browser as instructed by webpack-dev-server.
+`npm start` and open your browser to the URL as instructed by webpack-dev-server.
 
 ## License
 
