@@ -16,7 +16,7 @@ module.exports = class extends Generator {
       '.gitignore',
       'index.html',
       'index.ts',
-      'index.package.json',
+      'package.json',
       'tsconfig.json',
       'webpack.config.js',
     ];
