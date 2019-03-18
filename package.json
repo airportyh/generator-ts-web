@@ -69,7 +69,7 @@
   "scripts": {
     "pretest": "eslint .",
     "test": "jest",
-    "publish": "$ npm publish --access=public "
+    "publish": "$ npm publish --access=public"
   },
   "repository": "airportyh/generator-ts-web",
   "license": "Apache-2.0"
