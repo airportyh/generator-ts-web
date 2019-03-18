@@ -25,6 +25,10 @@ module.exports = class extends Generator {
         this.destinationPath(file)
       );
     }
+    this.fs.copy(
+      this.templatePath(file),
+      this.destinationPath(file)
+    );
   }
 
   install() {
