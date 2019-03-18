@@ -7,7 +7,7 @@ module.exports = class extends Generator {
   prompting() {
     // Have Yeoman greet the user.
     this.log(
-      yosay(`Welcome to ${chalk.red('generator-ts-web')} generator!`)
+      yosay(`Welcome to ${chalk.magenta('generator-ts-web')} generator!`)
     );
   }
 
