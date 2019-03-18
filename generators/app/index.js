@@ -30,7 +30,4 @@ module.exports = class extends Generator {
       this.destinationPath(".gitignore")
     );
   }
-
-  install() {
-  }
 };
