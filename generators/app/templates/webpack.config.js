@@ -16,5 +16,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: "index.html"
     })
-  ]
+  ],
+  devServer: {
+    hot: false,
+    inline: false
+  }
 };
